@@ -79,4 +79,4 @@ Folasade Adedeji
 [Detailed instruction for completing Jenkins pipelines on AWS](https://github.com/Folasade/static/blob/master/Jenkins-Pipelines-on-AWS.pdf)
 
 ### Acknowledgments
-Hat tip to my family for giving me space to complete this project.
+Hat tip to my family for giving me some space to complete this project.
