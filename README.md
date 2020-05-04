@@ -33,24 +33,40 @@ A screenshot showing the result of steps 1-8 provided below
 
 ### Files included
 Screenshot-01.jpg - The IAM AWS console with the permissions being created and unique AWS URL 
+
 Screenshot-02.jpg - Showing the unique AWS URL of EC2 instance as captured
+
 Screenshot-03.jpg - Showing the unique AWS url after Jenkins installation
+
 Screenshot-04.jpg - Shows the sidebar with the Blue Ocean link (Blue Ocean plugin installation) 
+
 Screenshot-05.jpg - Shows the GitHub project as a pipeline
+
 Screenshot-06.jpg - Setting up pipeline for AWS, shows "index.html" rendered with unique AWS url
+
 Screenshot-07.jpg - Shows the failure when linting
+
 Screenshot-08.jpg - Shows pipeline passing the linting stage and deploys to S3
+
 gitHubRepo.txt    - A file containing link to GitHub Repo
 
 ### Requirements
 AWS Account, IAM username and password, EC2 Key pair
+
 An EC2 instance with Ubuntu 18.04  
+
 Latest Jenkins installed on the EC2 instance
+
 Blue Ocean plugin
+
 "Tidy" linter
+
 A personal GitHub repository
+
 SSH Client
+
 A basic knowledge of bash scripting
+
 Basic programming skills
 
 ### Versioning
@@ -60,7 +76,7 @@ Git used for versioning.
 Folasade Adedeji
 
 ### Detailed direction for completing the project
-[Detailed instruction for completing Jenkins pipelines on AW(https://github.com/folasade/static/Jenkins-Pipelines-on-AWS.pdf)
+[Detailed instruction for completing Jenkins pipelines on AWS](https://github.com/Folasade/static/blob/master/Jenkins-Pipelines-on-AWS.pdf)
 
 ### Acknowledgments
 Hat tip to my family for giving me space to complete this project.
