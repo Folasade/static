@@ -76,7 +76,7 @@ Git used for versioning.
 Folasade Adedeji
 
 ### Detailed direction for completing the project
-[Detailed instruction for completing Jenkins pipelines on AWS](https://github.com/folasade/static/Jenkins-Pipelines-on-AWS.pdf)
+[Detailed instruction for completing Jenkins pipelines on AWS](https://github.com/Folasade/static/blob/master/Jenkins-Pipelines-on-AWS.pdf)
 
 ### Acknowledgments
 Hat tip to my family for giving me space to complete this project.
