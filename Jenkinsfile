@@ -1,6 +1,6 @@
 pipeline {
     agent any
-    
+    node {
     
     // This is inserted to add timestamps to the output logged by steps
     timestamps {
@@ -16,7 +16,7 @@ pipeline {
         stage "echo two"
         echo "What the time now?"
     }
-
+    }
     
     stages {
        stage('Lint HTML') {
