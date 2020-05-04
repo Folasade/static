@@ -4,6 +4,7 @@ pipeline {
     
     // This is inserted to add timestamps to the output logged by steps
     timestamps {
+        steps('timestamp'){
         // Including some echoes to show the timestamps.
         stage "echo one"
         echo "Hey heads up, I'm echoing with a timestamp"
@@ -15,6 +16,7 @@ pipeline {
         // The last echo to show when we wrap up.
         stage "echo two"
         echo "What the time now?"
+        }
     }
     }
     
